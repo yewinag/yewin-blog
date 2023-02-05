@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg width="50" height="50" viewBox="0 0 50 50" fill="none" xmlns="http://www.w3.org/2000/svg">
+<g clip-path="url(#clip0_312_11613)">
+<path
+      d="M25 50C38.8071 50 50 38.8071 50 25C50 11.1929 38.8071 0 25 0C11.1929 0 0 11.1929 0 25C0 38.8071 11.1929 50 25 50Z"
+      fill="#3CB054"
+    />
+<path
+      fill-rule="evenodd"
+      clip-rule="evenodd"
+      d="M14.0625 11.7188C32.9578 12.4172 40.2437 23.7594 36.5859 33.8797C35.55 36.6969 34.4484 38.2391 32.1328 39.8438C32.2266 39.4375 32.3234 39.0312 32.3984 38.6141C33.7672 30.7187 31.1719 21.2172 18.4734 15.9688C28.5766 21.9813 32.6531 32.6797 27.9422 39.5859C19.9219 40.8469 14.0625 33.9984 14.0625 26.1078V11.7188Z"
+      fill="white"
+    />
+</g>
+<defs>
+<clipPath id="clip0_312_11613">
+<rect width="50" height="50" fill="white" />
+</clipPath>
+</defs>
+</svg>
